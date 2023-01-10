@@ -1,8 +1,7 @@
 #jekyll configuration
 
 remote_theme: pages-theme/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 
 title: [ Effectiveness of mobile apps in improving self management in type 2 diabetes patients]
 description: [ Mobile apps  ]
