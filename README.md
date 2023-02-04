@@ -1,3 +1,6 @@
+
+![]()
+
 ## Introduction
 
 The prevalence of Type 2 diabetes is increasing worldwide, with estimates showing that 469 million people were living with diabetes in 2019, and that number is projected to increase to 578 million by 2030.     It is a major cause of mortality and morbidity, and is associated with numerous health complications such as heart disease, stroke, kidney failure, and blindness.     Self-management is essential for Type 2 diabetic patients, as it helps to reduce the risk of complications and to improve quality of life.  Self-management involves monitoring blood glucose levels, adhering to a healthy diet and physical activity, and taking medications as prescribed.   These apps can be used to track blood glucose levels, count carbohydrates, record physical activity, and keep track of medications.   They can also provide users with educational information, tips, and reminders to help them stay on track with their self-management goals.
