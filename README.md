@@ -1,5 +1,5 @@
 
-![]()
+![](cs-innovations-in-type-2-diabetes-treatment-1440x810.jpeg)
 
 ## Introduction
 
