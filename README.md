@@ -27,7 +27,7 @@ The results of the study indicate that a mobile health app can have a positive i
 
 ![](2_1_App_page_Header_0.jpg)
 
-##   Conclusion
+##  ⚪️ Conclusion
 
 Specifically, the use of mobile apps was associated with a significant reduction in HbA1c levels among patients with Type 2 diabetes, as well as improved adherence to medication and lifestyle changes.  Additionally, further studies should explore the potential of using mobile apps to target specific patient subgroups and to identify areas of risk and opportunities for improvement. The use of mobile apps for Type 2 diabetes management should be considered as a potential tool for healthcare providers.  Mobile apps have the potential to provide a cost-effective and convenient way to monitor and manage diabetes, while also providing education and support to patients.  Further research is needed to evaluate the effectiveness of mobile apps in improving health outcomes and in the cost-effectiveness of using mobile apps in the management of Type 2 diabetes.  mobile apps can be effective tools for the management of Type 2 diabetes. Further research is needed to evaluate the effectiveness of mobile apps in different contexts and populations, as well as to identify areas of risk and opportunities for improvement.
 
